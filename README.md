@@ -1,7 +1,7 @@
 # 🧑 ME?
-Hi I'm washiwash and it's a pleasure to meet you. 
+Hi, I'm washiwash! 🇵🇭
 
-i need a J--
+I'm a Web Developer from the Philippines with a passion for building impactful digital solutions. Since stepping into the IT industry, I’ve developed a variety of web and mobile applications aimed at solving real-world problems for the community. I thrive on tackling technical challenges and turning ideas into functional, user-centric reality!
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
